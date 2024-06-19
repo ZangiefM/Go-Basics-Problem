@@ -29,5 +29,3 @@ This will execute the solution for the first problem and print the output.
 Contributions
 Contributions are welcome! If you have additional problems, improvements to existing solutions, or bug fixes, feel free to open an issue or submit a pull request.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
